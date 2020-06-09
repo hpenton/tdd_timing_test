@@ -1,13 +1,13 @@
 # Definition of done
 
-- The parser must be able to take headings of level 1 to 6, (i.e. # - ######) and parse them into <h1> to <h6>
+- The parser must be able to take headings of level 1 to 6, (i.e. # - ######) and parse them into ```<h1> to <h6>```
   - There must be a space between the hash and the text. Otherwise it is just text.
   - The parser must be able to eliminate spaces before the hash
 
 At the end of the test the programs input string of 
 
 ```javascript
-# Heading one
+ # Heading one
 ##Heading two
 ### Heading three
 #### Heading four
