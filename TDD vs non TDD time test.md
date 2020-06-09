@@ -51,7 +51,7 @@ Must have an output string of
 
 ```html
 <h1>
-	Heading one
+  Heading one
 </h1>
 <p>
   ##Heading two
